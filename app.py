@@ -15,9 +15,13 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-app = Flask(__name__)
-
 BASE_DIR = Path(__file__).resolve().parent
+
+app = Flask(
+    __name__,
+    template_folder=str(BASE_DIR / "templates"),
+    static_folder=str(BASE_DIR / "static")
+)
 
 @app.route("/")
 def index():
