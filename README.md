@@ -1,10 +1,20 @@
 # ⚡ VortexAI Studio — Automated Short-Form Video Content Creator
 
+[![Vercel Deployment](https://img.shields.io/badge/Vercel-Live%20Production-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://aivideocontentcreator.vercel.app/)
 [![Python](https://img.shields.io/badge/Python-3.11+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
 [![Flask](https://img.shields.io/badge/Flask-3.1+-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
 [![FFmpeg](https://img.shields.io/badge/FFmpeg-Ready-007808?style=for-the-badge&logo=ffmpeg&logoColor=white)](https://ffmpeg.org/)
-[![SQLite](https://img.shields.io/badge/SQLite-3-003B57?style=for-the-badge&logo=sqlite&logoColor=white)](https://sqlite.org/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Ready-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://postgresql.org)
 [![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](#license)
+
+> 🚀 **Production Application is Live on Vercel!**
+
+### 🌐 Live Production Links
+* **Primary Production URL**: [https://aivideocontentcreator.vercel.app](https://aivideocontentcreator.vercel.app/)
+* **Deployment URL**: [https://aivideocontentcreator-vsgggv6v3-gen-ai-83de.vercel.app](https://aivideocontentcreator-vsgggv6v3-gen-ai-83de.vercel.app/)
+* **Vercel Project Dashboard**: [https://vercel.com/gen-ai-83de/ai_video_content_creator](https://vercel.com/gen-ai-83de/ai_video_content_creator)
+
+---
 
 **VortexAI Studio** is a full-stack, automated AI video generation and project management platform. It transforms raw text prompts and creative ideas into structured multi-scene scripts, styled motion graphics, animated karaoke-style captions, neural voiceovers, procedural background music, and master-grade **1080 × 1920 (9:16) vertical MP4 videos** ready for **Instagram Reels, TikTok, YouTube Shorts, and LinkedIn**.
 
