@@ -26,3 +26,5 @@ generated/*.png
 Thumbs.db
 .vscode/
 .idea/
+
+.vercel
